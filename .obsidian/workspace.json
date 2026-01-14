@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "e86f5a3d9d16596d",
@@ -176,15 +177,23 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": true
     }
   },
   "active": "10336893f0fe0885",
   "lastOpenFiles": [
-    "Campaign 1.md"
+    "Chulkai.md",
+    "Aeltzar.md",
+    "The Shades.md",
+    "Campaign 1.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2026-01-11.md"
   ]
 }
