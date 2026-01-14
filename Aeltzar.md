@@ -6,11 +6,11 @@ Road into town has 40+ large satellite dishes lining it
 Has a mountain with a forest behind the city
 Has 9 great clans, founding member of Victor
 	[[Chulkai]]
-	Human kings: legendary honor and strength of arms
+	[[Human Kings]]: legendary honor and strength of arms
 	Corpos: Cyber punk
-	Elves:
+	[[Elves]]:
 	Dwarves:
-	Ork aliens
+	[[Grimgar-Orcs]]: Aliens, very progressive
 	Angels: Paragons of virtue
 	Magic academy
 	Church
