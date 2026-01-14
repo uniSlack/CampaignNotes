@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Intro"
             }
+          },
+          {
+            "id": "5beb58525217e01d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Campaign 1"
+            }
+          },
+          {
+            "id": "15251be3eb77059f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aeltzar.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aeltzar"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,12 +212,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "10336893f0fe0885",
+  "active": "15251be3eb77059f",
   "lastOpenFiles": [
     "Campaign 1.md",
-    "Intro.md",
     "Chulkai.md",
-    "Aeltzar.md",
-    "The Shades.md"
+    "The Shades.md",
+    "Intro.md",
+    "Aeltzar.md"
   ]
 }
